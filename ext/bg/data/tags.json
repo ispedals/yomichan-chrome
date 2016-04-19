@@ -1,3 +1,364 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8fd512097459c1334fc1ca53d96acef75c038781befe07028bbf5a1709eecf66
-size 7654
+{
+    "Buddh": {
+        "desc": "Buddhist term"
+    },
+    "MA": {
+        "desc": "martial arts term"
+    },
+    "X": {
+        "desc": "rude or X-rated term"
+    },
+    "abbr": {
+        "desc": "abbreviation"
+    },
+    "adj": {
+        "desc": "former adjective classification (being removed)"
+    },
+    "adj-f": {
+        "desc": "noun or verb acting prenominally (other than the above)"
+    },
+    "adj-i": {
+        "desc": "adjective (keiyoushi)"
+    },
+    "adj-na": {
+        "desc": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+    },
+    "adj-no": {
+        "desc": "nouns which may take the genitive case particle 'no'"
+    },
+    "adj-pn": {
+        "desc": "pre-noun adjectival (rentaishi)"
+    },
+    "adj-t": {
+        "desc": "'taru' adjective"
+    },
+    "adv": {
+        "desc": "adverb (fukushi)"
+    },
+    "adv-n": {
+        "desc": "adverbial noun"
+    },
+    "adv-to": {
+        "desc": "adverb taking the 'to' particle"
+    },
+    "arch": {
+        "desc": "archaism"
+    },
+    "ateji": {
+        "desc": "ateji (phonetic) reading"
+    },
+    "aux": {
+        "desc": "auxiliary"
+    },
+    "aux-adj": {
+        "desc": "auxiliary adjective"
+    },
+    "aux-v": {
+        "desc": "auxiliary verb"
+    },
+    "c": {
+        "desc": "company name",
+        "class": "name",
+        "order": 3
+    },
+    "chn": {
+        "desc": "children's language"
+    },
+    "col": {
+        "desc": "colloquialism"
+    },
+    "comp": {
+        "desc": "computer terminology"
+    },
+    "conj": {
+        "desc": "conjunction"
+    },
+    "ctr": {
+        "desc": "counter"
+    },
+    "derog": {
+        "desc": "derogatory term"
+    },
+    "eK": {
+        "desc": "exclusively kanji"
+    },
+    "ek": {
+        "desc": "exclusively kana"
+    },
+    "exp": {
+        "desc": "Expressions (phrases, clauses, etc.)",
+        "class": "expression",
+        "order": 2
+    },
+    "f": {
+        "desc": "female given name",
+        "class": "name",
+        "order": 3
+    },
+    "fam": {
+        "desc": "familiar language"
+    },
+    "fem": {
+        "desc": "female term or language"
+    },
+    "food": {
+        "desc": "food term"
+    },
+    "g": {
+        "desc": "given name, as-yet not classified by sex",
+        "class": "name",
+        "order": 3
+    },
+    "geom": {
+        "desc": "geometry term"
+    },
+    "gikun": {
+        "desc": "gikun (meaning) reading"
+    },
+    "gram": {
+        "desc": "grammatical term"
+    },
+    "h": {
+        "desc": "full (usually family plus given) name of a particular person",
+        "class": "name",
+        "order": 3
+    },
+    "hon": {
+        "desc": "honorific or respectful (sonkeigo) language"
+    },
+    "hum": {
+        "desc": "humble (kenjougo) language"
+    },
+    "iK": {
+        "desc": "word containing irregular kanji usage"
+    },
+    "id": {
+        "desc": "idiomatic expression",
+        "class": "expression",
+        "order": 2
+    },
+    "ik": {
+        "desc": "word containing irregular kana usage"
+    },
+    "int": {
+        "desc": "interjection (kandoushi)"
+    },
+    "io": {
+        "desc": "irregular okurigana usage"
+    },
+    "iv": {
+        "desc": "irregular verb"
+    },
+    "ling": {
+        "desc": "linguistics terminology"
+    },
+    "m": {
+        "desc": "male given name",
+        "class": "name",
+        "order": 3
+    },
+    "m-sl": {
+        "desc": "manga slang"
+    },
+    "male": {
+        "desc": "male term or language"
+    },
+    "male-sl": {
+        "desc": "male slang"
+    },
+    "math": {
+        "desc": "mathematics"
+    },
+    "mil": {
+        "desc": "military"
+    },
+    "n": {
+        "desc": "noun (common) (futsuumeishi)"
+    },
+    "n-adv": {
+        "desc": "adverbial noun (fukushitekimeishi)"
+    },
+    "n-pref": {
+        "desc": "noun, used as a prefix"
+    },
+    "n-suf": {
+        "desc": "noun, used as a suffix"
+    },
+    "n-t": {
+        "desc": "noun (temporal) (jisoumeishi)"
+    },
+    "num": {
+        "desc": "numeric"
+    },
+    "oK": {
+        "desc": "word containing out-dated kanji"
+    },
+    "obs": {
+        "desc": "obsolete term"
+    },
+    "obsc": {
+        "desc": "obscure term"
+    },
+    "ok": {
+        "desc": "out-dated or obsolete kana usage"
+    },
+    "on-mim": {
+        "desc": "onomatopoeic or mimetic word"
+    },
+    "P": {
+        "desc": "popular term",
+        "class": "popular",
+        "order": 1
+    },
+    "p": {
+        "desc": "place-name",
+        "class": "name",
+        "order": 3
+    },
+    "physics": {
+        "desc": "physics terminology"
+    },
+    "pn": {
+        "desc": "pronoun"
+    },
+    "poet": {
+        "desc": "poetical term"
+    },
+    "pol": {
+        "desc": "polite (teineigo) language"
+    },
+    "pr": {
+        "desc": "product name",
+        "class": "name",
+        "order": 3
+    },
+    "pref": {
+        "desc": "prefix"
+    },
+    "prt": {
+        "desc": "particle"
+    },
+    "rare": {
+        "desc": "rare (now replaced by 'obsc')"
+    },
+    "s": {
+        "desc": "surname",
+        "class": "name",
+        "order": 3
+    },
+    "sens": {
+        "desc": "sensitive word"
+    },
+    "sl": {
+        "desc": "slang"
+    },
+    "st": {
+        "desc": "stations",
+        "class": "name",
+        "order": 3
+    },
+    "suf": {
+        "desc": "suffix"
+    },
+    "u": {
+        "desc": "person name, either given or surname, as-yet unclassified",
+        "class": "name",
+        "order": 3
+    },
+    "uK": {
+        "desc": "word usually written using kanji alone"
+    },
+    "uk": {
+        "desc": "word usually written using kana alone"
+    },
+    "v1": {
+        "desc": "Ichidan verb"
+    },
+    "v2a-s": {
+        "desc": "Nidan verb with 'u' ending (archaic)"
+    },
+    "v4h": {
+        "desc": "Yodan verb with 'hu/fu' ending (archaic)"
+    },
+    "v4r": {
+        "desc": "Yodan verb with 'ru' ending (archaic)"
+    },
+    "v5": {
+        "desc": "Godan verb"
+    },
+    "v5aru": {
+        "desc": "Godan verb - -aru special class"
+    },
+    "v5b": {
+        "desc": "Godan verb with 'bu' ending"
+    },
+    "v5g": {
+        "desc": "Godan verb with 'gu' ending"
+    },
+    "v5k": {
+        "desc": "Godan verb with 'ku' ending"
+    },
+    "v5k-s": {
+        "desc": "Godan verb - iku/yuku special class"
+    },
+    "v5m": {
+        "desc": "Godan verb with 'mu' ending"
+    },
+    "v5n": {
+        "desc": "Godan verb with 'nu' ending"
+    },
+    "v5r": {
+        "desc": "Godan verb with 'ru' ending"
+    },
+    "v5r-i": {
+        "desc": "Godan verb with 'ru' ending (irregular verb)"
+    },
+    "v5s": {
+        "desc": "Godan verb with 'su' ending"
+    },
+    "v5t": {
+        "desc": "Godan verb with 'tsu' ending"
+    },
+    "v5u": {
+        "desc": "Godan verb with 'u' ending"
+    },
+    "v5u-s": {
+        "desc": "Godan verb with 'u' ending (special class)"
+    },
+    "v5uru": {
+        "desc": "Godan verb - uru old class verb (old form of Eru)"
+    },
+    "v5z": {
+        "desc": "Godan verb with 'zu' ending"
+    },
+    "vi": {
+        "desc": "intransitive verb"
+    },
+    "vk": {
+        "desc": "kuru verb - special class"
+    },
+    "vn": {
+        "desc": "irregular nu verb"
+    },
+    "vs": {
+        "desc": "noun or participle which takes the aux. verb suru"
+    },
+    "vs-c": {
+        "desc": "su verb - precursor to the modern suru"
+    },
+    "vs-i": {
+        "desc": "suru verb - irregular"
+    },
+    "vs-s": {
+        "desc": "suru verb - special class"
+    },
+    "vt": {
+        "desc": "transitive ver"
+    },
+    "vulg": {
+        "desc": "vulgar expression or word"
+    },
+    "vz": {
+        "desc": "Ichidan verb - zuru verb - (alternative form of -jiru verbs)"
+    }
+}
