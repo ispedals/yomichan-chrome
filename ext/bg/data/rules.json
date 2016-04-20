@@ -72,7 +72,7 @@
                 "v1",
                 "v5",
                 "vk",
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -143,7 +143,7 @@
                 "v5"
             ],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -272,7 +272,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -379,7 +379,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -502,7 +502,7 @@
                 "v1"
             ],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -625,7 +625,7 @@
                 "adj-i"
             ],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -726,7 +726,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -833,7 +833,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -948,7 +948,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -1055,7 +1055,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -1154,7 +1154,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -1244,7 +1244,7 @@
                 "v1"
             ],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -1439,7 +1439,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -1447,7 +1447,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         }
     ],
@@ -1460,7 +1460,7 @@
                 "v1",
                 "v5",
                 "vk",
-                "vs-"
+                "vs"
             ]
         }
     ],
@@ -1783,7 +1783,7 @@
                 "adj-i"
             ],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -1885,7 +1885,7 @@
                 "v1"
             ],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -1998,7 +1998,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -2121,7 +2121,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -2220,7 +2220,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -2327,7 +2327,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -2426,7 +2426,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -2533,7 +2533,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         },
         {
@@ -2800,7 +2800,7 @@
             "kanaOut": "する",
             "tagsIn": [],
             "tagsOut": [
-                "vs-"
+                "vs"
             ]
         }
     ]
